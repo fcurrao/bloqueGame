@@ -1,0 +1,59 @@
+.container{
+    width: 900px;
+    height: 100vh;
+    margin:2rem auto;
+    text-align: center;
+}
+.contenedor{
+    width:570px;
+    height:300px;
+    position: relative;
+    border:1px solid black;
+    margin:2rem auto;
+    margin-bottom: 1rem;
+}
+.bloque{
+    
+    height:20px;
+    width:100px;
+    background-color:dodgerblue;
+    position:absolute;
+}
+
+.bloque2{
+    height:20px;
+    width:100px;
+    background-color:rgb(255, 248, 30);
+    position:absolute;
+}
+
+.usuario{
+    width:100px;
+    height:20px;
+    position:absolute;
+    background-color:green;
+}
+.bola{
+    height:20px;
+    width:20px;
+    position:absolute;
+    border-radius: 10px;
+    background-color:red;
+}
+
+.botonaso {
+    width: 120px;
+    height: 80px;
+    color: blue;
+    margin: 2rem;
+    text-align: center !important;
+
+}
+
+.botonng{
+    text-align: center !important;
+}
+
+.botonesDiv{
+    text-align: center !important;
+}
