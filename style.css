@@ -23,7 +23,7 @@
 .bloque2{
     height:20px;
     width:100px;
-    background-color:rgb(255, 248, 30);
+    background-color: yellow !important;
     position:absolute;
 }
 
